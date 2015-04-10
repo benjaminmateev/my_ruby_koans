@@ -1,3 +1,8 @@
+= Benjamin's Koan Progress
+
+This is a clone of the Neo Ruby Koans, I just pushed my status in my own repo. All
+credit goes to Neo (https://github.com/neo/ruby_koans)
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
